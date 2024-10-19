@@ -77,4 +77,4 @@ if 'question' in st.session_state:
         st.write(f"Your Answer: {answer}")
     
         st.write(f"Feedback: {feedback}")
-        st.write(f"Feedback: {feedback}")
+        
